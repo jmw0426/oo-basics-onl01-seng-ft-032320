@@ -11,7 +11,7 @@ puts "Your shoe is as good as new!"
 :condition = "new"
 end
 end
-
+end
 
 
 # class Book
